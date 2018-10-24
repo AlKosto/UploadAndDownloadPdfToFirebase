@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200582070002",
+    "firebase_url": "https://uploadpdftofirebase.firebaseio.com",
+    "project_id": "uploadpdftofirebase",
+    "storage_bucket": "uploadpdftofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200582070002:android:21fbe6178b4fed78",
+        "android_client_info": {
+          "package_name": "com.example.imran.uploadpdftofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200582070002-8k1m4gisihct14eit18icfjag9b74fp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imran.uploadpdftofirebase",
+            "certificate_hash": "0f44ec3d50b861d6bd0dd9f282fe40158dc1a7f1"
+          }
+        },
+        {
+          "client_id": "200582070002-qdftk07i550s0p82nmloet02euv1ir40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9sU33Z5p_j88c5tH8tnscPjRXV3bvls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200582070002-qdftk07i550s0p82nmloet02euv1ir40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
